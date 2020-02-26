@@ -1,15 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="princeandrey.github.io" resolutions="1x" timestamp="1582746081355">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://princeandrey.github.io" resolutions="1x" timestamp="1582751015289">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4028296769" ref="index"/>
+    <file name="index.css" crc="4021034549" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="3803043152" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
-  <file name="index.html" crc="18300060" seo="true" mt="1582745959606" redirect="true"/>
+  <folder name="images">
+    <file name="photo_2020-02-26_19-42-21.jpg" crc="328630674" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u97-4.png" crc="3762067338" ref="index"/>
+    <file name="u112-7.png" crc="4147629640" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4099094931" seo="true" mt="1582751014981" redirect="true"/>
 </manifest>
