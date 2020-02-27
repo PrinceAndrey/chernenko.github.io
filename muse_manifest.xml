@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://princeandrey.github.io" resolutions="1x" timestamp="1582751015289">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://princeandrey.github.io" resolutions="1x" timestamp="1582801409440">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4021034549" ref="index"/>
+    <file name="index.css" crc="372000349" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,11 +13,81 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="photo_2020-02-26_19-42-21.jpg" crc="328630674" ref="index">
+    <file name="u201-6.png" crc="265463274" ref="index"/>
+    <file name="u480-4.png" crc="86004481" ref="index"/>
+    <file name="telegram.png" crc="4045825435" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u97-4.png" crc="3762067338" ref="index"/>
-    <file name="u112-7.png" crc="4147629640" ref="index"/>
+    <file name="vk-u156-fr.png" crc="274132330" ref="index"/>
+    <file name="instagram-u159-fr.png" crc="4162536178" ref="index"/>
+    <file name="facebook-u186-fr.png" crc="78421034" ref="index"/>
+    <file name="u208-13.png" crc="4262514683" ref="index"/>
+    <file name="untitled-1024x576.jpg" crc="3867877721" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190504_232314.jpg" crc="4054468351" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_3.jpg" crc="4246506033" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1008.jpg" crc="324922999" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0995.jpg" crc="4024213063" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0303.jpg" crc="4259064614" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3968906577" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="уф блок.jpg" crc="3886051513" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0885.jpg" crc="4228985009" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1054.jpg" crc="4126452005" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16cfabb2-4c4c-4341-822b-e4967d47798c.jpg" crc="232536406" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled.jpg" crc="3996772526" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-09-22 21-53-23.jpg" crc="3985832538" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1034.jpg" crc="3950984130" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1010.jpg" crc="288587219" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4145066875" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_4.jpg" crc="200161576" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0304.jpg" crc="4028605404" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="final.jpg" crc="85878096" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0778.jpg" crc="3778527419" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0788.jpg" crc="67981113" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-09-22 21-53-08.jpg" crc="103629762" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4099094931" seo="true" mt="1582751014981" redirect="true"/>
+  <file name="index.html" crc="4236677844" seo="true" mt="1582801409073" redirect="true"/>
 </manifest>
